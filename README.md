@@ -84,7 +84,3 @@ A simple and intuitive to-do list application built with Django. This project de
 
 Feel free to submit issues or pull requests. If you have any suggestions or improvements, they are more than welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
